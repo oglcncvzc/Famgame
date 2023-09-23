@@ -32,6 +32,11 @@ npm start
 Usage
 When the application starts, you will see a list of free-to-play games. The main screen includes options to filter and sort the games.
 
+
+
+
+// I had to create the project with Expo due to the equipment I had to use. Afterwards, I completed the installation with specific plugins. There is a comment line in the App.js file related to the Expo setup. //
+
 API Documentation
 You can access the API used in this project by referring to the FreeToGame API Documentation.https://www.freetogame.com/api-doc
 
